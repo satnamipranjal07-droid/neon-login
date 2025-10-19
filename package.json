@@ -1,0 +1,14 @@
+{
+  "name": "neon-login",
+  "version": "1.0.0",
+  "description": "Neon login page with Node.js backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "satnamipranjal07-droid",
+  "license": "MIT"
+}
